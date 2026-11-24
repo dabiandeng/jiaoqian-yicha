@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+/.venv/
+/通用版输出/
+/实测/
+/参赛材料/
+/发布包/
+/dist/
+/runtime/
+*.exe
+*.zip
+.env*
+*.pem
+*.key
